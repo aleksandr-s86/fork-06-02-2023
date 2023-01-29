@@ -6,4 +6,4 @@
 
 simple text
 
-new programm code (add in vetka 2)
+new programm code (add in vetka 2). add new!
