@@ -7,3 +7,5 @@
 simple text
 
 new programm code (add in vetka 2). add new!. new code again!!!
+
+Add from Github important info
